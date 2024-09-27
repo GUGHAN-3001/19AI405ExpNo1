@@ -232,7 +232,7 @@ print(agent.performance)
 
 ```
 ## OUTPUT:
-![alt text]![Screenshot 2024-09-22 195902](https://github.com/user-attachments/assets/1a7bac19-7226-4052-98bc-340faad09e74)
+![Screenshot 2024-09-22 195902](https://github.com/user-attachments/assets/1a7bac19-7226-4052-98bc-340faad09e74)
 
 
 
